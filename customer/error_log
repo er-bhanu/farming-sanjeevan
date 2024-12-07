@@ -1,0 +1,53 @@
+[24-Jun-2024 09:14:26 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[24-Jun-2024 09:16:04 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[24-Jun-2024 09:45:36 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[24-Jun-2024 09:46:40 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[26-Jun-2024 16:41:56 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[26-Jun-2024 16:45:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/customer/cregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/customer/cregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/customer/cregisterScript.php(105): create_user('Abhishek Thakur', 'Abhishek@123', 'abhishek@gmail....', '07310519000', 'Uttar Pradesh', 'Etawah', 'BETA2', '201306')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/customer/cregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/customer/cregisterScript.php on line 73
+[26-Jun-2024 16:56:33 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[02-Jul-2024 06:46:03 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[02-Jul-2024 06:50:20 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[02-Jul-2024 06:50:52 UTC] PHP Warning:  Undefined variable $stripeDetails in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 266
+[02-Jul-2024 06:50:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 266
+[02-Jul-2024 06:50:52 UTC] PHP Warning:  Undefined variable $session in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 272
+[02-Jul-2024 06:50:52 UTC] PHP Warning:  Attempt to read property "id" on null in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 272
+[10-Jul-2024 08:27:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/customer/cregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/customer/cregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `cu...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/customer/cregisterScript.php(105): create_user('Abhishek Raj', 'Aa@12345', 'abhisheksk8588@...', '07753039769', 'Uttar Pradesh', 'Gorakhpur', 'VILL POST DUMAR...', '273209')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/customer/cregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/customer/cregisterScript.php on line 73
+[04-Oct-2024 15:22:57 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[04-Oct-2024 15:23:27 UTC] PHP Warning:  Undefined variable $stripeDetails in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 266
+[04-Oct-2024 15:23:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 266
+[04-Oct-2024 15:23:27 UTC] PHP Warning:  Undefined variable $session in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 272
+[04-Oct-2024 15:23:27 UTC] PHP Warning:  Attempt to read property "id" on null in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 272
+[05-Oct-2024 14:28:56 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[05-Oct-2024 14:29:48 UTC] PHP Warning:  Undefined variable $stripeDetails in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 266
+[05-Oct-2024 14:29:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 266
+[05-Oct-2024 14:29:48 UTC] PHP Warning:  Undefined variable $session in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 272
+[05-Oct-2024 14:29:48 UTC] PHP Warning:  Attempt to read property "id" on null in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 272
+[05-Oct-2024 14:30:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_redirect.php:12
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_redirect.php(12): mysqli_query(Object(mysqli), 'INSERT INTO `ca...')
+#1 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_redirect.php on line 12
+[11-Nov-2024 14:35:57 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[06-Dec-2024 15:52:14 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[06-Dec-2024 15:52:42 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[06-Dec-2024 15:53:34 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/customer/csend_otp.php on line 12
+[06-Dec-2024 15:54:16 UTC] PHP Warning:  Undefined variable $stripeDetails in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 266
+[06-Dec-2024 15:54:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 266
+[06-Dec-2024 15:54:16 UTC] PHP Warning:  Undefined variable $session in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 272
+[06-Dec-2024 15:54:16 UTC] PHP Warning:  Attempt to read property "id" on null in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 272
+[06-Dec-2024 15:54:18 UTC] PHP Warning:  Undefined variable $stripeDetails in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 266
+[06-Dec-2024 15:54:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 266
+[06-Dec-2024 15:54:18 UTC] PHP Warning:  Undefined variable $session in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 272
+[06-Dec-2024 15:54:18 UTC] PHP Warning:  Attempt to read property "id" on null in /home/bhanupra/public_html/Agriculture-portal-master/customer/cbuy_crops.php on line 272

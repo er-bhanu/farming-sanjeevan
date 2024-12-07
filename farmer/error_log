@@ -1,0 +1,196 @@
+[24-Jun-2024 09:32:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Rishav Yadav', 'Rishav@123', 'rishav@gmail.co...', '9631963950', 'Male', '2003-11-02', 'Uttar Pradesh', 'Etawah', 'etawah')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 09:33:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Rishav Yadav', 'Rishav@123', 'rishav@gmail.co...', '9631963950', 'Male', '2000-06-03', 'Uttar Pradesh', '', 'jaunpur')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 09:35:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Bhanupratap Sin...', 'Bhanu@123', 'bhanupratapsing...', '7310519406', 'Male', '1938-06-06', 'Uttar Pradesh', 'Bahraich', 'GREATER NOIDA')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 09:35:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Bhanupratap Sin...', 'Bhanu@123', 'bhanupratapsing...', '7310519406', 'Male', '1938-06-06', 'Uttar Pradesh', 'Bahraich', 'GREATER NOIDA')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 09:35:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Bhanupratap Sin...', 'Bhanu@123', 'bhanupratapsing...', '7310519406', 'Male', '1938-06-06', 'Uttar Pradesh', 'Bahraich', 'GREATER NOIDA')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 09:41:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Ram', 'Ramji@123', 'ram@gmail.com', '07310519406', 'Male', '2007-11-01', 'Uttar Pradesh', 'Siddharthnagar', 'GREATER NOIDA')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 09:46:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Rishav Yadav', 'Rishav@1234', 'rishav@gmail.co...', '9631963959', 'Male', '2002-06-06', 'Uttar Pradesh', 'Bulandshahr', 'etawah')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 09:46:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Rishav Yadav', 'Rishav@1234', 'rishav@gmail.co...', '9631963959', 'Male', '2002-06-06', 'Uttar Pradesh', 'Bulandshahr', 'etawah')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 09:48:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Rishav Yadav', 'Bhanu@123', 'rishav@gmail.co...', '9631963959', 'Male', '2007-03-16', 'Uttar Pradesh', 'Bulandshahr', 'etawah')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 10:01:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Rishav Yadav', 'Bhanu@123', 'rishav@gmail.co...', '9631963959', 'Male', '2007-03-16', 'Uttar Pradesh', 'Bulandshahr', 'etawah')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 10:02:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Rishav Yadav', 'Rishav@12233', 'rishav@gmail.co...', '9631963959', 'Male', '2024-06-13', 'Jharkhand', 'Latehar', 'etawah')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 10:02:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(73): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Rishav Yadav', 'Rishav@12233', 'rishav@gmail.co...', '9631963959', 'Male', '2024-06-13', 'Jharkhand', 'Latehar', 'etawah')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 10:04:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Rishav Yadav', 'Rishav@12233', 'rishav@gmail.co...', '9631963959', 'Male', '2024-06-13', 'Jharkhand', 'Latehar', 'etawah')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 10:04:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Rishav Yadav', 'Rishav@12233', 'rishav@gmail.co...', '9631963959', 'Male', '2024-06-13', 'Jharkhand', 'Latehar', 'etawah')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 10:11:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Bhanupratap Sin...', 'Bhanu@123', 'bhanupratapsing...', '7310519406', 'Male', '2001-11-30', 'Uttar Pradesh', 'Etawah', 'GREATER NOIDA')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 10:22:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:70
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(70): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(101): create_user('Bhanupratap Sin...', 'Bhanu@123', 'bhanupratapsing...', '07310519406', 'Male', '2001-11-30', 'Uttar Pradesh', 'Bulandshahr', 'GREATER NOIDA')
+#2 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#3 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 70
+[24-Jun-2024 10:22:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Bhanupratap Sin...', 'Bhanu@123', 'bhanupratapsing...', '07310519406', 'Male', '2001-11-30', 'Uttar Pradesh', 'Bulandshahr', 'GREATER NOIDA')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 10:35:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Bhanupratap Sin...', 'Bhanu@123', 'bhanupratapsing...', '7310519406', 'Male', '2024-06-24', 'Uttar Pradesh', 'Bulandshahr', 'GREATER NOIDA')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[24-Jun-2024 10:42:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Hitin Sharma', 'Hitin@123', 'hitin@gmail.com', '7310519406', 'Male', '2001-11-30', 'Uttar Pradesh', 'Bulandshahr', 'GREATER NOIDA')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[26-Jun-2024 16:10:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Bhanupratap Sin...', 'Bhanu@123', 'bhanupratapsing...', '7310519406', 'Male', '2024-06-13', 'Uttar Pradesh', 'Budau', 'GREATER NOIDA')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[26-Jun-2024 16:41:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Abhishek Thakur', 'Abhishek@123', 'abhishek@gmail....', '7310519406', 'Male', '2003-11-26', 'Uttar Pradesh', 'Etawah', 'GREATER NOIDA')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[26-Jun-2024 16:44:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Hitin Sharma', 'Hitin@123', 'hitin@gmail.com', '7310519400', 'Male', '2002-10-26', 'Uttar Pradesh', 'Bulandshahr', 'GREATER NOIDA')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[26-Jun-2024 16:57:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('rishav yadav', 'Rishav@123', 'rishav@gmail.co...', '0731051900', 'Male', '2024-06-26', 'Uttar Pradesh', 'Banda', 'GREATER NOIDA')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[27-Jun-2024 04:11:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Rishav Yadav', 'Rishav@123', 'rishav@gmail.co...', '9631963959', 'Male', '2024-05-31', 'Lakshadweep (UT...', 'Lakshadweep', 'etawah')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[03-Jul-2024 04:21:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Rishav Yadav', 'Rishav@123', 'rishav@gmail.co...', '9631963959', 'Male', '2024-07-13', 'Jammu and Kashm...', 'Ramba', 'etawah')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[11-Jul-2024 07:49:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Hitin Sharma', 'Hitin@123', 'hitin@gmail.com', '8523646365', 'Male', '2024-07-11', 'Uttar Pradesh', 'Bulandshahr', 'Gr noida')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[11-Jul-2024 07:49:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Hitin Sharma', 'Hitin@123', 'hitin@gmail.com', '8523646365', 'Male', '2024-07-11', 'Uttar Pradesh', 'Bulandshahr', 'Gr noida')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[14-Jul-2024 00:56:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Bhanupratap Sin...', 'Bhanu@2001', 'bhanupratapsing...', '07310519406', 'Male', '2024-07-14', 'Uttar Pradesh', 'Chandauli', 'GREATER NOIDA')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[17-Aug-2024 18:28:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php:73
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php(105): create_user('Bhanupratap Sin...', 'Bhanu@123', 'bhanupratapsing...', '07310519406', 'Male', '2024-08-23', 'Uttar Pradesh', 'Budau', 'GREATER NOIDA')
+#1 /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregister.php(2): include('/home/bhanupra/...')
+#2 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fregisterScript.php on line 73
+[05-Oct-2024 14:23:25 UTC] PHP Warning:  Undefined array key "farmer_login_user" in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fsession.php on line 6
+[05-Oct-2024 14:23:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fsession.php on line 11
+[05-Oct-2024 14:23:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fcrop_prediction.php on line 10
+[05-Oct-2024 14:23:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/bhanupra/public_html/Agriculture-portal-master/farmer/fcrop_prediction.php on line 11
+[05-Oct-2024 14:24:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in /home/bhanupra/public_html/Agriculture-portal-master/farmer/ftradecropsScript.php:23
+Stack trace:
+#0 /home/bhanupra/public_html/Agriculture-portal-master/farmer/ftradecropsScript.php(23): mysqli_query(Object(mysqli), 'INSERT INTO `fa...')
+#1 {main}
+  thrown in /home/bhanupra/public_html/Agriculture-portal-master/farmer/ftradecropsScript.php on line 23
